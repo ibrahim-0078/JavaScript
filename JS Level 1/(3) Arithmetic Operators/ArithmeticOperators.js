@@ -1,0 +1,20 @@
+let a = 100;
+let b = 10;
+let sum = a + b;
+let subtract = a - b;
+let multiplication = a * b;
+let division = a / b;
+let modulo = a % b;
+let exponentiation = a **b;
+
+document.write(sum);
+document.write("<br>");
+document.write(subtract);
+document.write("<br>");
+document.write(multiplication);
+document.write("<br>");
+document.write(division);
+document.write("<br>");
+document.write(modulo);
+document.write("<br>");
+document.write(exponentiation);
